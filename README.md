@@ -1,2 +1,3 @@
-# dre-ai-memory
-Repository for text files
+# DRE TinyMemory
+
+This repository is the permanent source for DRE TinyMemory.

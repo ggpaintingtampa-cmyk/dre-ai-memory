@@ -1,0 +1,13 @@
+{
+  "name": "DRE TinyMemory",
+  "version": "0.1",
+  "files": [
+    "README.md",
+    "persona.md",
+    "facts.md",
+    "projects.md",
+    "manifest.json",
+    "skills/00-index.md",
+    "history/README.md"
+  ]
+}
